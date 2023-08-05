@@ -15,9 +15,9 @@ puts add(1,2)
 #3.
 def a
  result = 1
-  array = [1, 3, 5, 7, 9]
-   array.each do |value|
-    result = result * value
+ array = [1, 3, 5, 7, 9]
+ array.each do |value|
+ result = result * value
 end
  return result
 end
